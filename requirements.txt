@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-image
+astropy
+matplotlib
+scikit-learn
+torch
+torchvision
+pytorch-lightning
+tensorflow
+ipython
+google-colab
+-U 'tensorboard'
+optuna
+torchmetrics
